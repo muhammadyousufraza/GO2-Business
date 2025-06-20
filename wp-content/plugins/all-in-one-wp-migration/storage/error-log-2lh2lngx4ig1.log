@@ -1,0 +1,6 @@
+Jun 20 2025 14:18:19
+{"Number":2,"Message":"Uninitialized string offset 1","File":"C:\\Users\\Apple\\Local Sites\\go2-business\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\database\\class-ai1wm-database-utility.php","Line":200}
+
+Jun 20 2025 14:18:58
+{"type":8192,"message":"Creation of dynamic property ET_Bloom::$dashboard_categories is deprecated","file":"C:\\Users\\Apple\\Local Sites\\go2-business\\app\\public\\wp-content\\plugins\\bloom\\dashboard\\dashboard.php","line":233}
+

@@ -1,0 +1,21 @@
+{
+	"name": "aiovg-blocks",
+	"version": "3.9.3",
+	"private": true,
+	"scripts": {
+		"build": "wp-scripts build --webpack-copy-php",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start --webpack-copy-php"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^30.4.0"
+	},
+	"dependencies": {
+		"@wordpress/icons": "^10.11.0",
+		"classnames": "^2.5.1"
+	}
+}
